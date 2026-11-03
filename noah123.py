@@ -1,0 +1,1 @@
+print ("Noah er meg, jeg er noah")
